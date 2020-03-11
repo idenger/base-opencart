@@ -1,0 +1,11 @@
+/system/storage
+/image/cache
+
+/system/storage/logs/*.log
+/system/*.log
+
+/admin/config-dist.php
+/admin/config.php
+/config-dist.php
+/config.php
+
